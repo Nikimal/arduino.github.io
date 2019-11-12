@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: 'Russo One', sans-serif;
+}
+
+.container{
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1600px;
+}
+
+h1{
+  font-family: 'Comfortaa', cursive;
+  color: #ff5733;
+}
+
+nav{
+  background: #2a363b;
+  text-align: right;
+  padding: 10px;
+}
+
+nav ul{
+  list-style-type: none;
+  color: #e84a5f;
+  font-family: 'Oswald', sans-serif;
+}
+
+nav li{
+  display: inline-block;
+  font-size: 25px;
+  margin-left: 30px;
+}
+
+input{
+  border: 0;
+  border-bottom-left-radius: 50%;
+  height: 23px;
+  width: 20px;
+  background-color: white;
+}
